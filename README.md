@@ -46,3 +46,4 @@ Cascade를 통하여 받은 얼굴 좌표(x,y,w,h)를 통해 subface에 저장�
 <img src = 'https://user-images.githubusercontent.com/77375223/125096295-f8364f80-e10f-11eb-9a0c-d83afdfe7366.JPG'>
 각각 Mask(i_ga), Blur(i_blur), Edge(i_edge), Original(i_original)의 전역 변수를 생성해 주었습니다. 이미지에 numbering을 해줄 변수 입니다. <br>
 그 후 맨 처음에 설정한 경로에 저장해주는 코드입니다. <br>
+코드를 한 번 실행하고 Image를 저장했을 때 종료 후 다음에 실행시 이미 파일이 있어서 error가 생성되며 종료되는 버그가 있었습니다. 따라서 에외 처리를 통하여(덮어쓰기) 형식으로 오류를 해결하였습니다.
