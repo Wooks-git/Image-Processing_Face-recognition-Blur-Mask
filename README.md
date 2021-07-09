@@ -1,4 +1,4 @@
-# Image-Processing_Face-recognition-Blur-Mask
+# ImageProcessing_FaceRecognition_Blur_Mask
 
 ## Overview
 
