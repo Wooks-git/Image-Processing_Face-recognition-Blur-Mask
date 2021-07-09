@@ -24,7 +24,7 @@ Tkinter module을 통해 사용자가 조작하여 원하는 효과를 적용할
 ## Code
 
 ### Cascade classifier
-<img src = 'https://user-images.githubusercontent.com/77375223/125087434-717d7480-e107-11eb-85b3-7faae9e7cce8.JPG' width = 500 height = 300>
+<img src = 'https://user-images.githubusercontent.com/77375223/125087434-717d7480-e107-11eb-85b3-7faae9e7cce8.JPG' width = 500 height = 100>
 Cascade classifier를 통해 얼굴을 인식을 하여 사용자가 원하는 처리를 할 수 있도록 해주는 코드 입니다.
 
 
