@@ -33,7 +33,7 @@ Cascade classifier를 통해 얼굴을 인식을 하여 사용자가 원하는 �
 Cascade를 통하여 받은 얼굴 좌표(x,y,w,h)를 통해 subface에 저장하여 해당 좌표에 블러처리를 하여 이미지에 적용해 줍니다.
 
 ### Edge
-<img src = 'https://user-images.githubusercontent.com/77375223/125087465-780bec00-e107-11eb-8994-67c64fb10557.JPG' width = 500 height = 300>
+<img src = 'https://user-images.githubusercontent.com/77375223/125087465-780bec00-e107-11eb-8994-67c64fb10557.JPG' width = 500 height = 200>
 
 ### Mask
 <img src = 'https://user-images.githubusercontent.com/77375223/125087478-79d5af80-e107-11eb-81d1-e81e1966b668.JPG' width = 500 height = 300>
